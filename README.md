@@ -1,4 +1,4 @@
 VFSPrototypeWeb
 ===============
 
-https://jcd-vfs.renuo.ch
+https://jcd-eth.renuo.ch
